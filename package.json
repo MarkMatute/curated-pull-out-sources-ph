@@ -1,6 +1,6 @@
 {
   "name": "curated-pull-out-sources-ph",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Typescript Starter",
   "main": "dist/index.js",
   "keywords": ["crawler", "for closed properties"],
