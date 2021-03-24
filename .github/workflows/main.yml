@@ -18,6 +18,7 @@ jobs:
         with:
           node-version: 12
           registry-url: https://registry.npmjs.org
+      - run: npm run build
       - name: publish
         run: npm publish --access public
         working-directory: dist
