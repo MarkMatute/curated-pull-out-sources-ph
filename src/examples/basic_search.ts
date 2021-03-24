@@ -3,4 +3,5 @@ import { BdoCrawler } from '../index';
     await BdoCrawler.start();
     await BdoCrawler.setSearch('toyota');
     const results = await BdoCrawler.execute();
+    console.table(results);
 })();
