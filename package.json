@@ -1,6 +1,6 @@
 {
   "name": "curated-pull-out-sources-ph",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Curated pull out sources",
   "main": "dist/index.js",
   "keywords": ["crawler", "for closed properties"],
