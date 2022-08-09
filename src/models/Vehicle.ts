@@ -9,4 +9,7 @@ export class Vehicle extends BaseModel {
     plate!: string;
     price!: string;
     location!: string;
+    lightboxUrl?: string;
+    remotePhotos!: string[];
+    localPhotos!: string[];
 }
